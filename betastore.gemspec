@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mail@paulbarry.com"]
   spec.summary       = %q{Just a gem}
   spec.description   = %q{Just a gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/pjb3/betastore-gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
